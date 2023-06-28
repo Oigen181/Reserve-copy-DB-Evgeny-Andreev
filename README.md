@@ -59,3 +59,4 @@ mysqlbinlog gbichot2-bin.000007 gbichot2-bin.000008 | mysql
 ---
 
 
+
